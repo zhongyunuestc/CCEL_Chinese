@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/jar 包库/jsoup-1.8.1 (1).jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/lucene-core-3.6.2.jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/neo4j-cypher-2.1.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/neo4j-cypher-commons-2.1.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/neo4j-cypher-compiler-1.9-2.0.3.jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/neo4j-cypher-compiler-2.0-2.0.3.jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/neo4j-cypher-compiler-2.1-2.1.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/neo4j-graph-algo-2.1.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/neo4j-graph-matching-2.1.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/neo4j-jmx-2.1.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/neo4j-kernel-2.1.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/neo4j-lucene-index-2.1.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/neo4j-primitive-collections-2.1.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/neo4j-shell-2.1.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/neo4j-udc-2.1.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/neo4j-rest-graphdb-2.0.0-M06.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
